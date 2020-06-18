@@ -26,4 +26,4 @@ A Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Va
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-<img src="https://github.com/ArafatRohan93/BMI_Calculator_Flutter/blob/master/Screenshot1.png" width="350" height="512">   <img src="https://github.com/ArafatRohan93/BMI_Calculator_Flutter/blob/master/Screenshot2.png" width="350" height="512"> 
+<img src="https://github.com/ArafatRohan93/BMI_Calculator_Flutter/blob/master/Screenshot1.png" width="350" height="712">   <img src="https://github.com/ArafatRohan93/BMI_Calculator_Flutter/blob/master/Screenshot2.png" width="350" height="712"> 
